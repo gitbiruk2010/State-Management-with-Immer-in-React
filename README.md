@@ -17,7 +17,7 @@ The application allows you to:
 
 To run the application locally, follow these steps:
 
-1. Clone this repository to your local machine: 
+1. Clone this repository to your local machine: https://github.com/gitbiruk2010/State-Management-with-Immer-in-React
 
 2. Navigate to the project directory:
 
